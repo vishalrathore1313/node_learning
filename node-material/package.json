@@ -1,0 +1,23 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "node js vishal",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vishal"
+  ],
+  "author": "vishal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
